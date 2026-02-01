@@ -2,7 +2,6 @@
 
 Static HTML/CSS profile page generated from your LinkedIn profile.
 
-## Run locally
 
 
 
