@@ -1,4 +1,4 @@
-# Local profile page
+# profile page
 
 Static HTML/CSS profile page generated from your LinkedIn profile.
 
