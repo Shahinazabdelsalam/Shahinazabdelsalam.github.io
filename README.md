@@ -11,7 +11,7 @@ python3 -m http.server 8787
 ```
 
 Then open:
-- http://localhost:8787
+- https://shahinazabdelsalam.github.io/
 
 ## Edit content
 - `index.html` (copy / sections)
